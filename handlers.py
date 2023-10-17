@@ -21,3 +21,5 @@ async def but1(msg: Message):
         await msg.answer('Услышал 2 Кнопку')
     elif msg.text == "Кнопка 3":
         await msg.answer('Услышал 3 кнопку')
+    elif msg.text == "Кнопка 4":
+        await msg.answer('Услышал 4 кнопку')
