@@ -1,0 +1,1 @@
+greet = "текст text.py"
